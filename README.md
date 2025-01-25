@@ -9,9 +9,7 @@ Access the live dashboard here: [Sales and Customer Analytics Dashboard](https:/
 ### Video Walkthrough
 Watch the recorded walkthrough for an in-depth demonstration of the dashboard's features and functionalities:
 
-![Video Walkthrough](./path-to-video/Video_Presentation.mov)
-
-*(Replace `./path-to-video/Video_Presentation.mov` with the relative path to your video file in the repository.)*
+![Video Walkthrough](./Video_Presentation.mov)
 
 ---
 
@@ -79,9 +77,8 @@ For any questions or collaboration opportunities, feel free to reach out:
 
 **Jay Gaudani**  
 **Email:** [jaybhgaudani2002@gmail.com](mailto:jaybhgaudani2002@gmail.com)  
-**LinkedIn:** [Jay Gaudani](your-linkedin-profile-link)
+**LinkedIn:** [Jay Gaudani](https://www.linkedin.com/in/jay-gaudani-5826141b6/)
 
 ---
 
-Enhance your business decisions with powerful insights from this dashboard. Let me know if you'd like further customization or detailed analyses tailored to your needs.
-
+Enhance your business decisions with powerful insights from this dashboard.
