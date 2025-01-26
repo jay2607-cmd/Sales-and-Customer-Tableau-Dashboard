@@ -9,7 +9,7 @@ Access the live dashboard here: [Sales and Customer Analytics Dashboard](https:/
 ### Video Walkthrough
 Watch the recorded walkthrough for an in-depth demonstration of the dashboard's features and functionalities:
 
-![Video Walkthrough](./Video_Presentation.mov)
+![Video Walkthrough](./documents/Video_Presentation.mov)
 
 ---
 
