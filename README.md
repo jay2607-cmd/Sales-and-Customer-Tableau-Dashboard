@@ -9,7 +9,7 @@ Access the live dashboard here: [Sales and Customer Analytics Dashboard](https:/
 ### Video Walkthrough
 Watch the recorded walkthrough for an in-depth demonstration of the dashboard's features and functionalities:
 
-![Video Walkthrough](./Video_Presentation.mov)
+![Video Walkthrough](./document/Video_Presentation.mov)
 
 ---
 
@@ -17,18 +17,22 @@ Watch the recorded walkthrough for an in-depth demonstration of the dashboard's 
 
 1. **Dynamic Visualizations:**
    - Interactive charts and graphs for sales trends, revenue growth, and performance comparisons.
+   - ![Sales Trend Analysis](./document/sales_trend_analysis.png)
 
 2. **Customer Insights:**
    - Filters for customer demographics, purchase behaviors, and feedback.
+   - ![Customer Insights](./document/customer_insights.png)
 
 3. **KPIs and Metrics:**
    - Real-time tracking of key performance indicators such as:
      - Total Sales
      - Revenue by Region
      - Customer Retention Rate
+   - ![KPIs and Metrics](./document/kpi_metrics.png)
 
 4. **Filters and Drilldowns:**
    - Dynamic filtering for dates, regions, products, and customer categories to personalize analysis.
+   - ![Filters and Drilldowns](./document/filters_drilldowns.png)
 
 ---
 
@@ -46,19 +50,6 @@ Watch the recorded walkthrough for an in-depth demonstration of the dashboard's 
 
 4. **Download or Share**
    - Export visuals or share the dashboard link for collaborative use.
-
----
-
-## Key Visuals
-
-1. **Sales Trend Analysis**
-   - A line chart showing monthly sales revenue.
-   
-2. **Regional Performance**
-   - A map visualization highlighting revenue distribution across regions.
-
-3. **Customer Segmentation**
-   - A bar chart showcasing customer segments and their contributions to sales.
 
 ---
 
